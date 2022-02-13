@@ -2,6 +2,8 @@
 - I’m interested in Python and JavaScript Coding
 - I’m currently learning Python, JavaScript, C#, HTML, CSS, and much more!
 - I’m looking to collaborate on games, websites, or apps
+- Portfolio: <a
+- href="localhost:50527/index.html"</a>
 - How to reach me: autumnbellard97@gmail.com
 
 <!---
